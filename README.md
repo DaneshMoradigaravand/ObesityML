@@ -26,3 +26,10 @@ The Obesity Classifier supports the following options:
 - `-s SHAP_OUTPUT, --shap_output SHAP_OUTPUT`: Path to the SHAP output image file.
 - `-f SHAP_DATAFRAME, --shap_dataframe SHAP_DATAFRAME`: Path to the SHAP output DataFrame file.
 - `--developer`: Show the program's version number and exit.
+
+## Run the Command
+
+To run the Obesity Classifier, open your command-line interface and navigate to the directory where the `ObesityClassifier.py` file is located. Then, execute the following command:
+
+```shell
+python ObesityClassifier.py [OPTIONS]
