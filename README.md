@@ -60,6 +60,6 @@ Remember to update the table with accurate file names and descriptions based on 
 
 ## Developer
 
-This application was developed by [Danesh Moradigaravand] under the supervision of Prof Babak Hossein Khalaj at Sharif University of Technology.
+This application was developed by **Danesh Moradigaravand** under the supervision of **Prof Babak Hossein Khalaj** at Sharif University of Technology.
 
 
