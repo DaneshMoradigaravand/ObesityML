@@ -33,3 +33,11 @@ To run the Obesity Classifier, open your command-line interface and navigate to 
 
 ```shell
 python ObesityClassifier.py [OPTIONS]
+
+## Running Streamlit Application
+
+In addition to the command-line tool, the Obesity Classifier also provides a Streamlit application for a more interactive experience. To run the Streamlit application, navigate to the `Streamlit` folder in the project repository. Open your command-line interface and execute the following command:
+
+```shell
+streamlit run ObesityClassifier.py
+
