@@ -43,3 +43,18 @@ In addition to the command-line tool, the Obesity Classifier also provides a Str
 streamlit run ObesityClassifier.py
 ```
 
+# Data
+
+This section contains the associated data for the project. Below is a table describing the contents of the data folder:
+
+| File Name                  | Description                                                                  |
+|----------------------------|------------------------------------------------------------------------------|
+| Humann_data_pathway.zip    | Pathway profiles for the isolates used in the model                           |
+| Metaplan_data_taxa.zip     | Taxa profiles for the isolates used in the model                              |
+| Isolates_Metadata.csv      | Accession and metadata for the samples included                               |
+| ML_input_data.csv          | The input data for the machine learning models, including label and predictor features |
+
+Please note that the data files are compressed in ZIP format for easy download and storage. Extract the contents of the ZIP files to access the individual data files.
+
+Remember to update the table with accurate file names and descriptions based on your specific project's data files.
+
