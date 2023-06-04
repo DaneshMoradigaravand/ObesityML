@@ -56,7 +56,7 @@ This section contains the associated data for the project. Below is a table desc
 
 Please note that the data files are compressed in ZIP format for easy download and storage. Extract the contents of the ZIP files to access the individual data files.
 
-# Data
+# Files
 
 This section contains the associated files for the project. Below is a table describing the contents of the data folder:
 
