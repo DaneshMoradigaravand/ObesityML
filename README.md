@@ -56,7 +56,16 @@ This section contains the associated data for the project. Below is a table desc
 
 Please note that the data files are compressed in ZIP format for easy download and storage. Extract the contents of the ZIP files to access the individual data files.
 
-Remember to update the table with accurate file names and descriptions based on your specific project's data files.
+# Data
+
+This section contains the associated files for the project. Below is a table describing the contents of the data folder:
+
+| File Name                  | Description                                                                  |
+|----------------------------|------------------------------------------------------------------------------|
+| Figures.pdf                | Figures in the report                                                         |
+| Final_report_DaneshMoradigaravand     | Final report in English                               |
+| ML_Implementation_Code.py      | Python Code used for training the models                               |
+| Final_report_DaneshMoradigaravand_Persian          | Final version in Persian |
 
 
 ## Developer
